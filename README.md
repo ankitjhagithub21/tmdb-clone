@@ -12,10 +12,6 @@ This is a simple movie app built with React.js that uses the TMDb API to fetch a
 - Click on a movie to view its details, including the trailer.
 - Watch the trailer by clicking the "Watch Trailer" button.
 
-## Usage
-- Browse the homepage to discover popular movies.
-- Click on a movie to view its details, including the trailer.
-- Watch the trailer by clicking the "Watch Trailer" button.
 
 ## Technologies Used
 - React vite
