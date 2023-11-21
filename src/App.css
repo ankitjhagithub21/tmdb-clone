@@ -33,7 +33,7 @@ body::-webkit-scrollbar-thumb
 
 header {
     min-height: 50vh;
-    background-image: url("https://www.themoviedb.org/t/p/w1920_and_h600_multi_faces_filter(duotone,00192f,00baff)/qUOJGvH8L31HL2b9Q6DGNPGCCI0.jpg");
+    background-image: url("hero.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
