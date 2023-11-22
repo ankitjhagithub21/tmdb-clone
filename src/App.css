@@ -126,4 +126,12 @@ footer{
     .col-md-6{
         margin-bottom: 20px;
     }
+    header{
+        padding: 10px;
+    }
+    header .container-fluid{
+
+        padding: 0;
+    }
+    
 }
